@@ -1,0 +1,6 @@
+<!--pages/demo/demo.wxml-->
+<text>pages/demo/demo.wxml</text>
+<view>
+  <text bindtap='bindtapShowToast'>longshowToast</text>
+  <text bindlongtap='bindtapShowToast'>showToast</text>
+</view>
